@@ -17,7 +17,7 @@ Python, Pandas, Seaborn, Plotly, визуализация данных, обра
 * Ожидаемый средний чек: 699 руб.
 * Ожидаемая стоимость чашки капучино: 190 руб.
 
-Подготовлена презентация для инвесторов.
+Подготовлена [презентация](https://disk.yandex.ru/i/zHuVWllR4AYk2Q) для инвесторов.
 
 #### Данные: `moscow_places.csv` `admin_level_geomap.geojson` `state_geo.geojson`
 
